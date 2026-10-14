@@ -28,3 +28,17 @@ cmake --version
 git --version
 python3 --version
 ```
+结果
+```
+g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+cmake version 3.22.1
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+git version 2.34.1
+Python 3.10.12
+```
+环境部署完毕
