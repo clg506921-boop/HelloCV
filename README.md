@@ -18,3 +18,13 @@ HelloCV/
 └── LLMGateway/       # 建议名称，非硬性要求
     └── ...
 ```
+
+## 检查开发环境
+
+在 Ubuntu 终端中执行：
+```
+g++ --version
+cmake --version
+git --version
+python3 --version
+```
