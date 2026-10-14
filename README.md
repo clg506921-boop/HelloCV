@@ -44,8 +44,11 @@ Python 3.10.12
 环境部署完毕
 
 在ubuntu中firefox中依次打开百度、github仓库和deepseek网址，确认Ubuntu 网络正常，能打开训练仓库及 DeepSeek 开放平台。
+
 <img width="722" height="402" alt="image" src="https://github.com/user-attachments/assets/55e9fb1c-a55f-46f7-977f-2efa2cb36b92" />
+
 确认Ubuntu 中的 Git 已经能够访问 Gitee 训练仓库
+
 <img width="568" height="49" alt="image" src="https://github.com/user-attachments/assets/6165b514-97fd-401d-9abc-7bd6b58051e8" />
 
 
