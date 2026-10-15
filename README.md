@@ -41,14 +41,19 @@ CMake suite maintained and supported by Kitware (kitware.com/cmake).
 git version 2.34.1
 Python 3.10.12
 ```
-环境部署完毕
+环境部署完毕：
 
 在ubuntu中firefox中依次打开百度、github仓库和deepseek网址，确认Ubuntu 网络正常，能打开训练仓库及 DeepSeek 开放平台。
 
 <img width="722" height="402" alt="image" src="https://github.com/user-attachments/assets/55e9fb1c-a55f-46f7-977f-2efa2cb36b92" />
 
-确认Ubuntu 中的 Git 已经能够访问 Gitee 训练仓库
+确认Ubuntu 中的 Git 已经能够访问 Gitee 训练仓库：
 
 <img width="568" height="49" alt="image" src="https://github.com/user-attachments/assets/6165b514-97fd-401d-9abc-7bd6b58051e8" />
+
+接下来打通Ubuntu中API为布置agent做准备：
+(此处因为日常使用的是Claude和dsh，采用更加熟悉且容易部署的dsh)
+<img width="1100" height="250" alt="image" src="https://github.com/user-attachments/assets/197c59ed-4ed3-46c3-a478-dbbea81a5134" />
+<img width="739" height="317" alt="image" src="https://github.com/user-attachments/assets/817f67d1-4add-4be5-a00e-3cbd6c15349c" />
 
 
