@@ -29,8 +29,8 @@ double convert(const char* from, const char* to, double value) {
 
 const char* unit_name(int choice, int which) {
     //              choice:  1     2     3    4     5     6
-    static const char* src[7] = {0, "C",  "F",  "m", "ft", "kg", "lb"};  // 源单位
-    static const char* dst[7] = {0, "F",  "C", "ft",  "m", "lb", "kg"};  // 目标单位
+    static const char* src[7] = {0, "C",  "F",  "m", "ft", "lb", "kg"};  // 源单位
+    static const char* dst[7] = {0, "F",  "C", "ft",  "m", "kg", "lb"};  // 目标单位
     if (choice < 1 || choice > 6) return 0;        // 编号非法
     return which == 1 ? src[choice] : dst[choice];
 }
