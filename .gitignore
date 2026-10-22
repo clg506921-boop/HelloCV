@@ -1,0 +1,14 @@
+# ---- ROS 2 / CMake 构建产物 ----
+build/
+install/
+log/
+
+# ---- Python ----
+.venv/
+__pycache__/
+*.pyc
+
+# ---- 环境变量与密钥 ----
+.env
+.env.*
+!.env.example
