@@ -11,3 +11,9 @@ https://www.yuque.com/ahz56/cbis6h/vgw3uafxwssgmpd5?singleDoc   # 《CMake 学�
 https://www.yuque.com/ahz56/cbis6h/qne3frn27y2wvgrg?singleDoc   # 《单位转换器：实现、构建与问题排查》
 
 https://www.yuque.com/ahz56/cbis6h/lm6yiz4g3saesosz?singleDoc   # 《Agent 协作补全 LLM 网关：DeepSeek API 与石头剪刀布》
+
+## 第三次任务（ROS 2）
+
+https://www.yuque.com/ahz56/cbis6h/ec18t1iua8bv76yv   # 《04 ROS 2 工作空间、节点与话题通信》
+
+https://www.yuque.com/ahz56/cbis6h/vy2h8f2tv6tx2nav   # 《05 ROS 2 服务、参数、TF 与 launch》

@@ -112,7 +112,7 @@ rviz2                                       # Fixed Frame 设为 base_link，Add
 
 | 笔记 | 语雀链接 | Markdown 导出 |
 | --- | --- | --- |
-| 《ROS 2 工作空间、节点与话题通信》 | （待补） | [notes/04-ROS2-工作空间-节点与话题.md](notes/04-ROS2-工作空间-节点与话题.md) |
-| 《ROS 2 服务、参数、TF 与 launch》 | （待补） | [notes/05-ROS2-服务-参数-TF-launch.md](notes/05-ROS2-服务-参数-TF-launch.md) |
+| 《04 ROS 2 工作空间、节点与话题通信》 | https://www.yuque.com/ahz56/cbis6h/ec18t1iua8bv76yv | [notes/04-ROS2-工作空间-节点与话题.md](notes/04-ROS2-工作空间-节点与话题.md) |
+| 《05 ROS 2 服务、参数、TF 与 launch》 | https://www.yuque.com/ahz56/cbis6h/vy2h8f2tv6tx2nav | [notes/05-ROS2-服务-参数-TF-launch.md](notes/05-ROS2-服务-参数-TF-launch.md) |
 
 图片在 `notes/images/` 下，与 Markdown 里的相对路径一一对应。
