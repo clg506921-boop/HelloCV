@@ -108,7 +108,11 @@ rviz2                                       # Fixed Frame 设为 base_link，Add
 - `publish_rate`：定时器周期在构造时算好，运行中改参数**不会**改变频率，只能重启或改代码；
 - `max_count`：`0` 表示不限，否则发满即停。
 
-### 语雀笔记
+### 语雀笔记（Markdown 导出）
 
-- 待补：《ROS 2 工作空间、节点与话题通信》
-- 待补：《ROS 2 服务、参数、TF 与 launch》
+| 笔记 | 语雀链接 | Markdown 导出 |
+| --- | --- | --- |
+| 《ROS 2 工作空间、节点与话题通信》 | （待补） | [notes/04-ROS2-工作空间-节点与话题.md](notes/04-ROS2-工作空间-节点与话题.md) |
+| 《ROS 2 服务、参数、TF 与 launch》 | （待补） | [notes/05-ROS2-服务-参数-TF-launch.md](notes/05-ROS2-服务-参数-TF-launch.md) |
+
+图片在 `notes/images/` 下，与 Markdown 里的相对路径一一对应。
