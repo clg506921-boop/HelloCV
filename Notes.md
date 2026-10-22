@@ -2,9 +2,13 @@ git-training链接：https://gitee.com/clg506921/git_training
 
 语雀笔记链接汇总文档：
 
+## 第一次任务（Linux）
+
 https://www.yuque.com/ahz56/cbis6h/pzrv76le9oqwq30l?singleDoc   # 《Git 版本控制实践记录》
 
 https://www.yuque.com/ahz56/cbis6h/gtiro2osgssms4fq?singleDoc   # 《Linux 系统基础与开发环境搭建》
+
+## 第二次任务（Cmake）
 
 https://www.yuque.com/ahz56/cbis6h/vgw3uafxwssgmpd5?singleDoc   # 《CMake 学习：目标、链接与源码外构建》
 
